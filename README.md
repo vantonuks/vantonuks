@@ -19,14 +19,20 @@ I am an aspiring .NET developer, with background in Java.
 Always passionate about maths, puzzles and computers, I was always excited to use computer to help me better understand mathematical concepts and problems. Starting as amateur C++ coder, I progressed to writing back-end functionality with Java and, finally, C#. I am passionate to learn new technologies, not necessarily limited to back-end development.
 
 ### 🔧My skills
-![image](https://github.com/vantonuks/vantonuks/assets/55565510/d7830478-8b7c-42bb-abf8-9524ad934ac9 | width = 60)
-![image](https://github.com/vantonuks/vantonuks/assets/55565510/b3479330-6901-4feb-abd7-f113fe0d395d | width = 60)
-![image](https://github.com/vantonuks/vantonuks/assets/55565510/056d5760-a413-4cee-ae95-3e88d8cd09b3 | width = 60)
-![image](https://github.com/vantonuks/vantonuks/assets/55565510/02d6e8d8-0eb5-4b05-ae34-81a10778a266 | width = 60)
+<img src = "https://github.com/vantonuks/vantonuks/assets/55565510/d7830478-8b7c-42bb-abf8-9524ad934ac9" width="60"/>
+<img src = "https://github.com/vantonuks/vantonuks/assets/55565510/b3479330-6901-4feb-abd7-f113fe0d395d" width="60"/>
+<img src = "https://github.com/vantonuks/vantonuks/assets/55565510/a6751a71-4ae5-42fa-8d9b-b7329a5795f7" width = "60"/>
+<img src = "https://github.com/vantonuks/vantonuks/assets/55565510/056d5760-a413-4cee-ae95-3e88d8cd09b3" width="60"/>
+<img src = "https://github.com/vantonuks/vantonuks/assets/55565510/02d6e8d8-0eb5-4b05-ae34-81a10778a266" width="60"/>
+
 
 ### 🔭 Current projects
 Flight Planner (https://github.com/vantonuks/FlightPlanner) - an application for managing different flights and their reservations.
 
+### 💡 Currently learning
+Cryptography
+Cybersecurity
+Cloud Technology (Azure)
 
 ### 🗯️ How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vladislavs-antonuks/)
